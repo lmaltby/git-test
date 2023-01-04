@@ -1,0 +1,2 @@
+Hello World, this is the beginning of 100 Days of Code
+And hopefully, a career
